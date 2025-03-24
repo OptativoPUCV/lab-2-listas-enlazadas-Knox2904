@@ -34,7 +34,8 @@ List * createList() {
 
     l->head = NULL ; 
     l->tail = NULL ;
-
+    l->current = NULL ;     
+    
      return l;
 }
 
