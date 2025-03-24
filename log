@@ -2,3 +2,9 @@ mi., 19 de mar. de 2025 10:14:51:
  tests:  0|6
 total_score: 0/70
 25021aa
+Mon, Mar 24, 2025  7:23:53 PM: 
+ list.c | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+ tests:  0|6
+total_score: 0/70
+b729865
