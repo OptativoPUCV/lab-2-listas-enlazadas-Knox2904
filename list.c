@@ -43,7 +43,8 @@ void * firstList(List * list) {
 }
 
 void * nextList(List * list) {
-    return NULL;
+    if(list->head == NULL) return NULL ; 
+    return list->current->next->data;
 }
 
 void * lastList(List * list) {
